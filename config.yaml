@@ -1,0 +1,11 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://raminasotoudeh.github.io/raminasotoudeh"
+title: "Ramina Sotoudeh"
+canonifyurls: true
+theme: "Lanyon"
+...
